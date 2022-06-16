@@ -1,6 +1,6 @@
 # Minimal Blog
 
-This is a Minimal blog using as base the blog <a href="https://sidey-jekyll.netlify.app/">Sidey</a> by <a href="https://github.com/ronv">@ronv</a> for make a personal blog more simple but without jekyll and others things leaving only HTML and CSS and three types of pages... home, post and about.
+This is a Minimal blog using as base the blog <a href="https://sidey-jekyll.netlify.app/">Sidey</a> by <a href="https://github.com/ronv">@ronv</a> for make a personal blog more simple but without jekyll and others things leaving only HTML and CSS, all img archives convert on black and white and three types of pages, home, post and about.
 
 For those who have basic knowledge and want a simple but functional and responsive blog.
 
