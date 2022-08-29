@@ -4,7 +4,7 @@ This is a Minimal blog using as base the blog <a href="https://sidey-jekyll.netl
 
 For those who have basic knowledge and want a simple but functional and responsive blog.
 
-Live view https://joaquinmetayer.github.io/minimalblog/
+Live view https://jmminimalblog.netlify.app/
 
 <img width="1200" alt="Screen Shot 2022-06-14 at 21 51 53" src="https://user-images.githubusercontent.com/83543601/173713757-f4c39e6b-177e-4fdc-ae37-53bf3d3697df.png">
 
